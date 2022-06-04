@@ -12,8 +12,7 @@ Download [here](https://github.com/Quoty0/better_bedrock/releases)
 
 ## Installation
 - these app packages are considered "untrusted" by Windows, because they were packaged by a 3rd party (me)
-- in order to install the appx's certificate, right click it, and go `Propeties` -> `Digital Signatures`
-- click the signature in the signatures list, the click `Details` -> `View Certificate` -> `Install Certificate...`
+- in order to install the appx's certificate, double click it
 - select the `Store Location` to be `Local Machine`, then click `Next`
 - select `Place all certificates in the following store` and set the directory to the `Trusted Root Certification Authorities` folder
 - click `Next`, then `Finish`
