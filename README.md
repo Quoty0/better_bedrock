@@ -7,3 +7,5 @@ better minecraft bedrock with some features like...
 - Max framerate settings
 - Integrated Onix client
 - Search icon for Onix client
+
+Download [here](https://github.com/Quoty0/better_bedrock/releases)
