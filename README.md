@@ -5,10 +5,14 @@ better minecraft bedrock with some features like...
 - Transparent chat background
 - Low fire
 - Max framerate settings
-- Integrated Onix client
 - Search icon for Onix client
 
 Download [here](https://github.com/Quoty0/better_bedrock/releases)
+
+
+## Changelog
+- Added 1.19.0
+- Removed Integrated Onix Client according to [#license](https://discord.com/channels/814195071356370977/961670491431649341)
 
 ## Installation
 - these app packages are considered "untrusted" by Windows, because they were packaged by a 3rd party (me)
