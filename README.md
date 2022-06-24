@@ -10,6 +10,10 @@ better minecraft bedrock with some features like...
 Download [here](https://github.com/Quoty0/better_bedrock/releases)
 
 
+## If some text is missing in game
+Download and apply [this pack](https://raw.githubusercontent.com/Quoty0/better_bedrock/master/fix-missing-text.mcpack)!
+
+
 ## Changelog
 - Added 1.19.0
 - Removed Integrated Onix Client according to [#license](https://discord.com/channels/814195071356370977/961670491431649341)
