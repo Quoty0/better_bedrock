@@ -1,3 +1,5 @@
+# THIS PROJECT IS ARCHIVED AND NOT MAINTAINED ANYMORE
+
 # Better bedrock
 better minecraft bedrock with some features like...
 - Ore border
